@@ -1,30 +1,30 @@
 ﻿<resources>
 
-    <string name="title_activity_profile_edit">Edita Perfil</string>
+    <string name="title_activity_profile_edit">Editar Perfil</string>
 
     <!-- Headers -->
 
     <string name="pref_header_display_settings">Configuració de pantalla</string>
-    <string name="pref_header_additional_settings">Configuració addicionals</string>
+    <string name="pref_header_additional_settings">Configuracions adicionals</string>
 
     <!-- Titles and descriptions -->
     <string name="pref_title_profile_name">Nom de perfil</string>
     <string name="pref_title_resolution">Resolució</string>
     <string name="pref_title_dpi">Densitat</string>
     <string name="pref_title_overscan_settings">Ajustar vores (overscan)</string>
-    <string name="pref_title_overscan">Habilita Bordes</string>
+    <string name="pref_title_overscan">Habilitar vores</string>
     <string name="pref_description_overscan">Útil per als televisors més antics, per envitar el tall de part de la imatge</string>
     <string name="pref_title_bluetooth_on">Activar Bluetooth</string>
-    <string name="pref_description_bluetooth_on">Habilita Bluetooth automàticament (per connectar un teclat, un ratolí i / o el comandament) </string>
+    <string name="pref_description_bluetooth_on">Habilitar Bluetooth automàticament (per connectar un teclat, un ratolí i/o el comandament) </string>
     <string name="pref_title_wifi_on">Activar Wi-Fi</string>
     <string name="pref_description_wifi_on">Activar automàticament la Wi-Fi</string>
-    <string name="pref_title_daydreams_on">Activa estalvi de pantalla</string>
-    <string name="pref_description_daydreams_on">Mostra un estalvi de pantalla quan el dispositiu està bloquejat</string>
-    <string name="pref_title_show_touches">Mostra els detalls</string>
-    <string name="pref_description_show_touches">Mostra informació visual per als esdeveniments de pantalla tàctil</string>
+    <string name="pref_title_daydreams_on">Activar l'estalvi de pantalla</string>
+    <string name="pref_description_daydreams_on">Mostrar un estalvi de pantalla quan el dispositiu està bloquejat</string>
+    <string name="pref_title_show_touches">Mostrar els detalls</string>
+    <string name="pref_description_show_touches">Mostrar l'informació visual per als esdeveniments de pantalla tàctil</string>
     <string name="pref_title_rotation">Rotació pantalla</string>
-    <string name="pref_title_backlight_off">Sense retroiluminació</string>
-    <string name="pref_description_backlight_off">Desactiveu temporalment la il · luminació del dispositiu\s per estalviar bateria (només funciona en alguns dispositius)</string>
+    <string name="pref_title_backlight_off">Sense retroil·luminació</string>
+    <string name="pref_description_backlight_off">Desactiveu temporalment la il·luminació del dispositiu\s per estalviar bateria (només funciona en alguns dispositius)</string>
     <string name="pref_title_vibration_off">Apagar vibració</string>
     <string name="pref_description_vibration_off">Desactiveu temporalment motor de vibració del dispositiu\s (només funciona en alguns dispositius)</string>
     <string name="pref_title_chrome">Chrome Mode Escriptori</string>
@@ -35,9 +35,9 @@
     <string name="bottom">Inferior</string>
     <string name="left">Esquerra</string>
     <string name="right">Dreta</string>
-    <string name="pref_title_test_overscan">Pruebar vores</string>
-    <string name="pref_description_test_overscan">Nota: Els valors de sobreexploración només són exactes si s'està provant mentre que el perfil està actiu.</string>
-    <string name="configure_daydreams">Si us plau assegureu-vos que els protectors de pantalla es configura plenament (en la configuració de pantalla del sistema) abans de carregar aquest perfil.</string>
+    <string name="pref_title_test_overscan">Provar vores</string>
+    <string name="pref_description_test_overscan">Nota: Els valors de sobre exploració només són exactes si s'està provant mentre que el perfil està actiu.</string>
+    <string name="configure_daydreams">Si us plau assegureu-vos que els protectors de pantalla és configura plenament (en la configuració de pantalla del sistema) abans de carregar aquest perfil.</string>
     <string name="disabled">Inactiu</string>
     <string name="enabled">Activat</string>
     <string name="quick_backlight">Retroil·luminació</string>
@@ -75,7 +75,7 @@
     <string-array name="pref_rotation_list">
         <item>Utilitza la configuració del sistema</item>
         <item>Força auto-rotació</item>
-        <item>Bloquegi l'orientació horitzontal</item>
+        <item>Bloquege-ho l'orientació horitzontal</item>
     </string-array>
     <string-array name="pref_quick_actions">
         <item>On</item>
