@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="accept">Dacord</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_close">Tancar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_import">Importar</string>
+    <string name="action_load">Carregar</string>
+    <string name="action_new">Nou perfil</string>
+    <string name="action_quick">Accions</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_save_reload">Guardar i Actualitzar</string>
+    <string name="action_save_only">Guardar només</string>
+    <string name="action_ok">Dacord</string>
+    <string name="action_settings">Configuració</string>
+    <string name="am_restart_warning">Aquest mètode no es recomana amb el mirroring, pantalla sense fils</string>
+    <string name="any_profile">Qualsevol perfil</string>
+    <string name="app_name">SecondScreen</string>
+    <string name="available_actions">Accions Disponibles</string>
+    <string name="backlight_off_message">Alguns nuclis poden evitar que la il·luminació s'apagui completament.</string>
+    <string name="backlight_off_message_samsung">Alguns nuclis poden evitar que la il·luminació s'apagui completament.</string>
+    <string name="blacklisted">Per protegir el dispositiu, SecondScreen no li permetrà guardar aquest perfil amb la resolució i la densitat seleccionada.</string>
+    <string name="both_versions_installed">Si us plau, desinstal aquesta versió de SecondScreen i utilitzeu la versió prèviament instal·lada en el seu lloc.</string>
+    <string name="check_for_update">Cercar actualitzacions</string>
+    <string name="decline">No accepto</string>
+    <string name="deleting_current_profile">No es pot eliminar el perfil actiu</string>
+    <string name="dialog_about_message">SecondScreen: Optimitzar el teu Android per a les grans pantalles\n\n&#169; 2014 Braden Farmer\n\nAquesta aplicació utilitza el codi dels següents projectes de codi obert, tots registrats sota <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache 2.0</a>:\n\n&#8226; <a href="http://github.com/farmerbb/Notepad">Notepad</a>\n\n&#8226; <a href="http://jgilfelt.github.io/android-actionbarstylegenerator/">Android Action Bar Style Generator</a>\n\n&#8226; <a href="http://github.com/Chainfire/libsuperuser">libsuperuser</a>\n\n&#8226; <a href="http://www.twofortyfouram.com/developer.html">Locale Developer API</a>\n\nAquesta aplicació utilitza elements gràfics de les següents fonts, autoritzat sota <a href="http://creativecommons.org/licenses/by/3.0/">CC-BY-3.0</a>:\n\n&#8226; <a href="http://developer.android.com/distribute/tools/promote/brand.html">Android robot (Google)</a>\n\n&#8226; <a href="http://romannurik.github.io/AndroidAssetStudio/">Android Asset Studio"</a></string>
+    <string name="dialog_about_title">Sobre SecondScreen</string>
+    <string name="dialog_are_you_sure">Estàs segur?</string>
+    <string name="dialog_delete_button_title">Suprimeix perfil</string>
+    <string name="dialog_first_load">SecondScreen ara demana l'accés de root i es carregarà el perfil. La seva pantalla pot parpellejar a mesura que canvia la resolució i la densitat.\n\nPer desactivar un perfil actiu, toc el seu nom i seleccioneu Tanca.</string>
+    <string name="dialog_load_profile">Carregar Perfil</string>
+    <string name="dialog_reload_profile_title">Actualitzar el perfil?</string>
+    <string name="dialog_turn_off_message">aquesta actualment actiu. Li agradaria tancar?</string>
+    <string name="dialog_turn_off_title">Tancar Perfil</string>
+    <string name="dialog_upgrade_message">SecondScreen no ha estat provat en aquesta versió d'Android. És pot bloquejar o comportar-se d'altres formes inesperades.</string>
+    <string name="display_disconnected">Tancar Perfil</string>
+    <string name="dont_show_again">No mostrar de nou</string>
+    <string name="dpi">dpi</string>
+    <string name="editing_current_profile">Aquesta és la manera que està actiu. T'agradaria tornar a carregar per aplicar els canvis?</string>
+    <string name="enter_profile_name">Introduïu el nom del perfil</string>
+    <string name="error_loading_list">No es pot carregar la llista de perfils!</string>
+    <string name="error_loading_profile">Error en carregar el perfil!</string>
+    <string name="expert_mode">Activar el mode expert</string>
+    <string name="expert_mode_dialog">La Manera expert anul·la la llista negra interna SecondScreen de combinacions de resolució i densitats insegures. Utilitzeu aquesta opció només si vostè sap exactament el que està fent. La manera segur és molt recomanable quan s'utilitza aquesta opció.\n\nVoleu activar el mode expert?</string>
+    <string name="expert_mode_summary">Permetre que qualsevol valor definit per l'usuari, sigui usat com a resolució i DPI </string>
+    <string name="failed_to_save">Error: No s'ha pogut deixar el perfil!</string>
+    <string name="first_run">Aquesta aplicació REQUEREIX l'accés de root per a funcionar i és només per a dispositius amb AOSP o accions ROM Android! No es garanteix que funcioni correctament en altres dispositius.\n\nVostè és l'ÚNIC RESPONSABLE de la forma en què utilitzi aquesta aplicació, del tipus de dispositiu que s'utilitza, i així com dels mètodes que utilitzi per aconseguir l'accés root en la seva dispositiu.</string>
+    <string name="hdmi_checkbox">Inicieu SecondScreen quan el Chromecast/HDMI aquest connectat</string>
+    <string name="hdmi_connected">Chromecast/HDMI connectat</string>
+    <string name="label_load_profile">SecondScreen - Carregar Perfils</string>
+    <string name="label_profile_active">SecondScreen - Prefil Actiu</string>
+    <string name="label_quick_actions">SecondScreen - Accions Ràpides</string>
+    <string name="loading_profile">Carregant SecondScreen&#8230;</string>
+    <string name="notification">SecondScreen està actiu</string>
+    <string name="new_device_message">SecondScreen sembla que han estat restaurats desde una còpia de seguretat.\n\nSi és tracta d'un dispositiu diferent, si us plau esborrar les dades de l'aplicació i torneu a executar SecondScreen per assegurar-se que funciona correctament (en cas contrari, poden ocórrer problemes).</string>
+    <string name="no_profiles_found">No s'han trobat perfils</string>
+    <string name="no_superuser">No es pot obtenir permisos de root!</string>
+    <string name="pref_description_safe_mode">Quan el mode segur està activat, els perfils no es quedaran actius després d'un reinici.</string>
+	<string name="pref_title_hdmi">Inicia amb Chromecast/HDMI connectat</string>
+    <string name="pref_title_hdmi_select_profile">Carregar Perfil</string>
+	<string name="pref_title_hide_notification">Amaga notificacions</string>
+    <string name="pref_title_notification_action">Botó d'acció de notificació</string>
+	<string name="pref_title_safe_mode">Mode Segur</string>
+	<string name="profile_deleted">Perfil Eliminat</string>
+    <string name="profile_saved">Perfil guardat</string>
+    <string name="profile_settings">Configuració del Perfil</string>
+    <string name="profile_helper_text">Connecta la pantalla i després seleccioneu un perfil.\nMantingui pressionat el perfil per accedir a la seva configuració.</string>
+    <string name="profile_helper_text_alt">El perfil és destaca a continuació està actiu actualment.\nSeleccioneu el seu nom per tancar-lo.</string>
+    <string name="profile_view_bluetooth_on">Activar Bluetooth</string>
+    <string name="profile_view_daydreams_on">Activa estalvi de pantalla</string>
+    <string name="profile_view_rotation_autorotate">Rotació (auto-rotació)</string>
+    <string name="profile_view_rotation_landscape">Rotació (Apaïsada)</string>
+    <string name="profile_view_ui_refresh_systemui">Refresca UI (Reiniciar Sistema)</string>
+    <string name="profile_view_ui_refresh_soft_reboot">Refresca UI (Reiniciar software)</string>
+    <string name="profile_view_wifi_on">Activar Wi-Fi </string>
+    <string name="quick_actions_message">Utilitzeu accions ràpides per accedir a la funcionalitat SecondScreen sense crear un nou perfil o modificar temporalment un perfil d'execució existent sense modificar-lo.</string>
+    <string name="recreate_shortcut">Perfil No trobat!\n\nSi us plau, torni a crear o elimini aquest accés directe.</string>
+    <string name="reload_profile">Voleu actualitzar el perfil actiu per aplicar els paràmetres modificats?</string>
+    <string name="safeguard_title">ATENCIÓ</string>
+    <string name="select_profile">Seleccioneu el perfil</string>
+    <string name="select_screen_type">Seleccioneu el tipus de pantalla:</string>
+    <string name="show_list">Mostrar llista de perfils</string>
+    <string name="this_profile">Aquest perfil</string>
+    <string name="turn_off">Tancar</string>
+    <string name="turning_off_profile">Sortint SecondScreen&#8230;</string>
+    <string name="welcome">Benvingut a SecondScreen</string>
+    <string name="welcome_message">Crear un nou perfil prement el botó Nou perfil a la part superior</string>
+
+    <string-array name="new_profile_templates">
+        <item>TV (1080p)</item>
+        <item>TV (720p)</item>
+        <item>Monitor (1080p)</item>
+        <item>AppRadio</item>
+        <item>Un altre / Cap</item>
+    </string-array>
+
+</resources>
